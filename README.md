@@ -7,4 +7,5 @@ A work-in-progress collection of all the Data projects I am doing as part of my 
 3. Predicting Customer Lifetime Value (Auto Insurance)
 4. Recommendation Engine with IBM (Udacity DS Nanodegree)
 5. Predicting Turbine Rotor Temperature (ReNew Power Hackathon)
+6. Predicting Vehicle Insurance Claim
 
